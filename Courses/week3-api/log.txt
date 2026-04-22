@@ -1,0 +1,8 @@
+[2026-04-22T09:03:52.712Z] GET /announcements
+[2026-04-22T09:06:53.981Z] GET /announcements
+[2026-04-22T09:10:11.500Z] GET /announcements
+[2026-04-22T09:12:48.288Z] GET /announcements
+[2026-04-22T09:15:20.222Z] GET /announcements
+[2026-04-22T09:22:49.035Z] GET /announcements/1
+[2026-04-22T09:22:56.087Z] GET /announcements/12
+[2026-04-22T09:23:20.554Z] GET /announcements/2

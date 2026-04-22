@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Welcome!", "message": "Course starts Monday.", "category": "general" },
+  { "id": 2, "title": "Office Hours", "message": "Wednesday 5 PM EAT.", "category": "tech" }
+]
