@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Future of React Native Architecture",
+    "speaker": "Sarah Drasner",
+    "date": "2026-05-15T18:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Scaling MERN Applications for Enterprise",
+    "speaker": "Addy Osmani",
+    "date": "2026-05-22T17:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Machine Learning in Agriculture: IoT Sensors",
+    "speaker": "Dr. Amina Ndizeye",
+    "date": "2026-06-05T19:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Deep Q-Networks for Resource Optimization",
+    "speaker": "Lex Fridman",
+    "date": "2026-06-12T18:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Demystifying the Node.js Event Loop",
+    "speaker": "Sarah Drasner",
+    "date": "2026-06-20T17:00:00Z"
+  }
+]
